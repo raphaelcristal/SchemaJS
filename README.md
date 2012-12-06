@@ -1,5 +1,7 @@
 SchemaJS
 ========
+### Browser Support
+This library will only work in newer browser, because methods like Object.defineProperty are used. If you want to find out if your browser is supported, just run the tests  and check if they pass!
 
 ### Basic Usage
 
