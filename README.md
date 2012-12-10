@@ -27,7 +27,7 @@ peter.update({ name : 50 }); //error, wrong type
 peter.update({ name : "Peter Senior" });
 peter.name //"Peter Senior"
 
-var jon = personSchema.newModem({
+var jon = personSchema.newModel({
   name : 'John'
 }); //error, missing properties
 
