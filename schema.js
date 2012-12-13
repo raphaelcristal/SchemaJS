@@ -47,6 +47,7 @@ Schema.createSchema = function (schemas) {
   var validTypes = {
     Number: null,
     String: null,
+    Boolean: null,
     Array: null,
     Object: null
   };
